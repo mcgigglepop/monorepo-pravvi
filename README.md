@@ -1,7 +1,6 @@
 # monorepo-pravvi
 A monorepo application written in Golang, CDK... and a little bit of that stuff ;)
 
-# codeforge
 ![Screenshot (624)](https://github.com/mcgigglepop/codeforge/blob/main/resources/Web%20App%20Reference%20Architecture.png)
 
 # Tech Stack - `Golang`, `RDS`
